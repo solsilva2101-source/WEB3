@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504133122FMV85C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504133122P53Q0B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿COMPRAMOS O NOS COMPRAN?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SEGUNDA VIDA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>SOLEDAD SILVA IGLESIAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777894276608</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mor4cjiw-c83ug6e9o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SDA . ¿COMPRAMOS O NOS COMPRAN ?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA . ¿COMPRAMOS O NOS COMPRAN ?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA . ¿COMPRAMOS O NOS COMPRAN ?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjiw-c83ug6e9o</odePageId>
+      <odeBlockId>block-1777822071326-jtunat3qn</odeBlockId>
+      <blockName>QUÉ HAREMOS</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiw-c83ug6e9o</odePageId>
+          <odeBlockId>block-1777822071326-jtunat3qn</odeBlockId>
+          <odeIdeviceId>idevice-1777822071325-uc72t798g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;">El Taller de Economía Aplicada ofrece el marco idóneo para que el alumnado de 4ª ESO  experimente con datos reales, contraste fuentes, calcule el coste económico y ambiental de sus hábitos de consumo y proponga soluciones viables y contextualizadas en su entorno asturiano.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"> La situación fomenta el <strong>pensamiento crítico</strong>, la toma de decisiones fundamentada y la responsabilidad individual y colectiva a través de la relación interdisciplinar entre áreas como son Tecnología y Digitalización, Educación Plástica y Visual.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">La situación se inicia activando conocimientos previos mediante el análisis de la cesta de la compra digital propia del alumnado. En la <strong>Tarea 1</strong> se investigan los mecanismos del mercado que condicionan las decisiones de compra. En la <strong>Tarea 2</strong> se cuantifica el impacto real del consumo irresponsable y se identifican alternativas de economía circular en Asturias. En la <strong>Tarea 3</strong> el alumnado diseña y publica una campaña de concienciación para su comunidad educativa.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">El trabajo se organizará en equipos heterogéneos con roles asignados. Los productos finales ha obtener son :  infografía digital, presentación oral y campaña de concienciación.</span></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777822071325-uc72t798g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El Taller de Economía Aplicada ofrece el marco idóneo para que el alumnado de 4ª ESO  experimente con datos reales, contraste fuentes, calcule el coste económico y ambiental de sus hábitos de consumo y proponga soluciones viables y contextualizadas en su entorno asturiano.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"> La situación fomenta el <strong>pensamiento crítico</strong>, la toma de decisiones fundamentada y la responsabilidad individual y colectiva a través de la relación interdisciplinar entre áreas como son Tecnología y Digitalización, Educación Plástica y Visual.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">La situación se inicia activando conocimientos previos mediante el análisis de la cesta de la compra digital propia del alumnado. En la <strong>Tarea 1</strong> se investigan los mecanismos del mercado que condicionan las decisiones de compra. En la <strong>Tarea 2</strong> se cuantifica el impacto real del consumo irresponsable y se identifican alternativas de economía circular en Asturias. En la <strong>Tarea 3</strong> el alumnado diseña y publica una campaña de concienciación para su comunidad educativa.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">El trabajo se organizará en equipos heterogéneos con roles asignados. Los productos finales ha obtener son :  infografía digital, presentación oral y campaña de concienciación.</span></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjiw-c83ug6e9o</odePageId>
+      <odeBlockId>block-1777822567550-xm6u8q7qi</odeBlockId>
+      <blockName>SECUENCIA DIDÁCTICA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiw-c83ug6e9o</odePageId>
+          <odeBlockId>block-1777822567550-xm6u8q7qi</odeBlockId>
+          <odeIdeviceId>idevice-1777822567550-00ptfbwi9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table width="602" style="width: 932px;">
+<tbody>
+<tr>
+<td colspan="2" width="602" style="width: 931.2px; text-align: center;">
+<p><span style="color: #2dc26b;"><strong>SECUENCIACIÓN DIDÁCTICA</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="127" style="width: 204.95px; text-align: center;">
+<p><span style="color: #2dc26b;"><strong>Recursos</strong></span></p>
+</td>
+<td width="475" style="width: 726.25px; text-align: center;">
+<p><span style="color: #2dc26b;"><strong>Descripción de la actividad, tarea, proceso</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="127" style="width: 204.95px;">
+<p>Formulario KPSI</p>
+<p>Herramienta de nube digital (Mentimeter / WordWall)</p>
+<p>Selección de noticias de prensa (OCU, El País, El Comercio)</p>
+<p>Smartphones / ordenadores</p>
+</td>
+<td width="475" style="width: 726.25px;">
+<p><strong>TAREA 1: ¿QUÉ COMPRAMOS Y POR QUÉ? (2 sesiones)</strong></p>
+<p>La finalidad de esta primera tarea es activar los conocimientos previos del alumnado sobre consumo y despertar su espíritu crítico ante sus propios hábitos de compra, generando el conflicto cognitivo que motivará el trabajo posterior.</p>
+<p><strong>Sesión 1 — Gran grupo / trabajo individual</strong></p>
+<p>Tras una breve introducción del/la docente (10 min.), el alumnado completa el formulario KPSI inicial valorando su conocimiento sobre consumo responsable, economía circular, marketing y adicciones digitales. A continuación, en gran grupo, se analizan tres noticias reales seleccionadas por el/la docente (una sobre técnicas de marketing digital, otra sobre obsolescencia programada y una tercera sobre el gasto de jóvenes en apuestas online en Asturias). Se generan dudas y preguntas que quedan recogidas en el cuaderno de grupo. Se realiza una nube de palabras digital colectiva con los términos que el alumnado asocie a «consumo».</p>
+<p><strong>Sesión 2 — Individual y gran grupo</strong></p>
+<p>Cada alumno/a reflexiona por escrito sobre sus tres últimas compras digitales o físicas significativas: ¿qué les impulsó a comprarlas?, ¿fue una decisión libre?, ¿les influyó alguien o algo? Se ponen en común de forma voluntaria y el/la docente introduce los conceptos clave <strong>(consumo responsable, economía circular, obsolescencia programada, adicciones digitales</strong>). Se forman los grupos heterogéneos definitivos asignando las cuatro temáticas de investigación.</p>
+<p><strong>Actividad 1</strong></p>
+<p>Cuestionario KPSI inicial: autoevaluación de conocimientos previos.</p>
+<p><strong>Actividad 2</strong></p>
+<p>Nube de palabras digital colectiva.</p>
+<p><strong>Actividad 3</strong></p>
+<p>Reflexión individual escrita: análisis de las últimas compras y sus motivaciones.</p>
+</td>
+</tr>
+<tr>
+<td width="127" style="width: 204.95px;">
+<p>Ordenadores / tablets</p>
+<p>Webs especializadas: OCU, FACUA, MITECO, Gobierno del Principado de Asturias, Banco de España, Greenpeace</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Herramientas de presentación (Canva, Genial.ly, Prezi)</p>
+<p>Cuaderno digital de grupo</p>
+</td>
+<td width="475" style="width: 726.25px;">
+<p><strong>TAREA 2: INVESTIGANDO EL CONSUMO EN ASTURIAS (4 sesiones)</strong></p>
+<p>Esta es la tarea central de la SA. Cada grupo investiga en profundidad su temática asignada, la relaciona con la realidad asturiana.</p>
+<p><strong>Sesión 1 — Grupos heterogéneos</strong></p>
+<p>Cada grupo define su estrategia de trabajo y asigna roles (coordinador/a, analista de datos, comunicador/a, responsable de calidad). Se elabora el plan de búsqueda de información. El/la docente explica brevemente los criterios de la infografía digital y la rúbrica de evaluación.</p>
+<p><strong>Sesiones 2 y 3 — Grupos de expertos/as </strong></p>
+<p>Los alumnos/as con la misma temática se reúnen en grupos de expertos/as para buscar, seleccionar y organizar información de calidad. Cada temática incluye un análisis específico:</p>
+<p>–      Grupo marketing: análisis de técnicas de persuasión en anuncios reales (precio psicológico, FOMO, influencers, cajas de suscripción). Experimento: seguimiento de anuncios recibidos durante 24 horas.</p>
+<p>–      Grupo obsolescencia programada: comparativa de vida útil declarada vs. real de tres dispositivos; cálculo del coste por año de uso; búsqueda de legislación europea de derecho a reparar.</p>
+<p>–      Grupo economía circular: mapa de iniciativas de economía circular en el Principado de Asturias (empresas, colectivos, políticas autonómicas del PANES). Propuestas aplicables al centro educativo.</p>
+<p>–      Grupo adicciones digitales: análisis del tiempo y gasto medio en dispositivos, videojuegos y apuestas online en jóvenes asturianos; identificación de recursos de ayuda disponibles en Asturias (UAVR, FAD, etc.).</p>
+<p><strong>Sesión 3 y 4 — Grupos heterogéneos y gran grupo</strong></p>
+<p>Elaboración grupal de la infografía visual (Canva, Genial.ly…) y exposición oral ante la clase. Cada presentación incluye: datos clave, gráficos elaborados por el grupo, análisis crítico y propuestas. El resto del alumnado realiza una coevaluación con rúbrica.</p>
+<p><strong>Actividad 1</strong></p>
+<p>Plan de trabajo del grupo y asignación de roles.</p>
+<p><strong>Actividad 2</strong></p>
+<p>Investigación en grupos de expertos/a.</p>
+<p><strong>Actividad 3</strong></p>
+<p>Informe digital individual.</p>
+<p><strong>Actividad 4</strong></p>
+<p>Presentación oral grupal y coevaluación.</p>
+</td>
+</tr>
+<tr>
+<td width="127" style="width: 204.95px;">
+<p>Cuaderno del alumnado</p>
+<p>Ordenadores</p>
+<p>Móviles / cámaras</p>
+<p>Herramientas de edición de vídeo (CapCut, Canva Video, iMovie)</p>
+<p>Redes sociales / web del centro</p>
+</td>
+<td width="475" style="width: 726.25px;">
+<p><strong>TAREA 3: ¿QUÉ PUEDO HACER YO? CAMPAÑA DE CONSUMO CONSCIENTE ( 3 sesiones)</strong></p>
+<p>Tras las exposiciones de todos los grupos, el alumnado dispone de una visión global del problema. En esta tarea final el trabajo se orienta hacia la acción, la creatividad y la difusión pública.</p>
+<p><strong>Sesión 1 — Técnica 1-2-4 (individual → parejas → grupo)</strong></p>
+<p>El/la docente propone situaciones problemáticas contextualizadas en la vida cotidiana del alumnado asturiano. Ejemplos:</p>
+<p>–      Comparativa del coste real (€/año de uso) de un smartphone nuevo vs. reparado en el Servicio de Reparación de la OSL.</p>
+<p>–      Simulación: ¿cuánto dinero ahorraría al mes un estudiante de 4.º ESO si cancelase dos suscripciones digitales innecesarias?</p>
+<p>–      Cálculo del ahorro de CO₂ equivalente si el 10% de los hogares asturianos adoptase la compra de segunda mano para ropa.</p>
+<p>–      Análisis de una apuesta deportiva online: probabilidad real de ganar, coste esperado por partida y proyección mensual.</p>
+<p>Se aplica la estructura 1-2-4: cada alumno/a resuelve primero en solitario, luego contrasta con una pareja y finalmente consensua la solución en el grupo completo.</p>
+<p><strong>Sesión 2 — Grupos heterogéneos</strong></p>
+<p>Cada grupo diseña y graba un vídeo corto de concienciación (máximo 90 segundos) con sus conclusiones y recomendaciones prácticas para un consumo más responsable, dirigido a la comunidad educativa. Los vídeos deben incluir: un dato económico clave, una propuesta concreta y aplicable, y un mensaje visual impactante. Se editan con herramientas digitales sencillas (CapCut, Canva Video).</p>
+<p><strong>Sesión 3 — Gra33n grupo + individual</strong></p>
+<p>Visionado colectivo de los vídeos y votación de los dos más impactantes para publicar en las redes sociales del instituto. El alumnado completa el KPSI de cierre comparándolo con el inicial, realiza la autoevaluación individual y la coevaluación del trabajo grupal. El/la docente cierra la SA con una reflexión sobre lo aprendido y su conexión con los ODS.</p>
+<p><strong>Actividad 1</strong></p>
+<p>Resolución cooperativa de situaciones problemáticas (1-2-4).</p>
+<p><strong>Actividad 2</strong></p>
+<p>Producción y edición del vídeo de concienciación.</p>
+<p><strong>Actividad 3</strong></p>
+<p>KPSI final, autoevaluación y coevaluación.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777822567550-00ptfbwi9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table width=\"602\" style=\"width: 932px;\">\n<tbody>\n<tr>\n<td colspan=\"2\" width=\"602\" style=\"width: 931.2px; text-align: center;\">\n<p><span style=\"color: #2dc26b;\"><strong>SECUENCIACIÓN DIDÁCTICA</strong></span></p>\n</td>\n</tr>\n<tr>\n<td width=\"127\" style=\"width: 204.95px; text-align: center;\">\n<p><span style=\"color: #2dc26b;\"><strong>Recursos</strong></span></p>\n</td>\n<td width=\"475\" style=\"width: 726.25px; text-align: center;\">\n<p><span style=\"color: #2dc26b;\"><strong>Descripción de la actividad, tarea, proceso</strong></span></p>\n</td>\n</tr>\n<tr>\n<td width=\"127\" style=\"width: 204.95px;\">\n<p>Formulario KPSI</p>\n<p>Herramienta de nube digital (Mentimeter / WordWall)</p>\n<p>Selección de noticias de prensa (OCU, El País, El Comercio)</p>\n<p>Smartphones / ordenadores</p>\n</td>\n<td width=\"475\" style=\"width: 726.25px;\">\n<p><strong>TAREA 1: ¿QUÉ COMPRAMOS Y POR QUÉ? (2 sesiones)</strong></p>\n<p>La finalidad de esta primera tarea es activar los conocimientos previos del alumnado sobre consumo y despertar su espíritu crítico ante sus propios hábitos de compra, generando el conflicto cognitivo que motivará el trabajo posterior.</p>\n<p><strong>Sesión 1 — Gran grupo / trabajo individual</strong></p>\n<p>Tras una breve introducción del/la docente (10 min.), el alumnado completa el formulario KPSI inicial valorando su conocimiento sobre consumo responsable, economía circular, marketing y adicciones digitales. A continuación, en gran grupo, se analizan tres noticias reales seleccionadas por el/la docente (una sobre técnicas de marketing digital, otra sobre obsolescencia programada y una tercera sobre el gasto de jóvenes en apuestas online en Asturias). Se generan dudas y preguntas que quedan recogidas en el cuaderno de grupo. Se realiza una nube de palabras digital colectiva con los términos que el alumnado asocie a «consumo».</p>\n<p><strong>Sesión 2 — Individual y gran grupo</strong></p>\n<p>Cada alumno/a reflexiona por escrito sobre sus tres últimas compras digitales o físicas significativas: ¿qué les impulsó a comprarlas?, ¿fue una decisión libre?, ¿les influyó alguien o algo? Se ponen en común de forma voluntaria y el/la docente introduce los conceptos clave <strong>(consumo responsable, economía circular, obsolescencia programada, adicciones digitales</strong>). Se forman los grupos heterogéneos definitivos asignando las cuatro temáticas de investigación.</p>\n<p><strong>Actividad 1</strong></p>\n<p>Cuestionario KPSI inicial: autoevaluación de conocimientos previos.</p>\n<p><strong>Actividad 2</strong></p>\n<p>Nube de palabras digital colectiva.</p>\n<p><strong>Actividad 3</strong></p>\n<p>Reflexión individual escrita: análisis de las últimas compras y sus motivaciones.</p>\n</td>\n</tr>\n<tr>\n<td width=\"127\" style=\"width: 204.95px;\">\n<p>Ordenadores / tablets</p>\n<p>Webs especializadas: OCU, FACUA, MITECO, Gobierno del Principado de Asturias, Banco de España, Greenpeace</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Herramientas de presentación (Canva, Genial.ly, Prezi)</p>\n<p>Cuaderno digital de grupo</p>\n</td>\n<td width=\"475\" style=\"width: 726.25px;\">\n<p><strong>TAREA 2: INVESTIGANDO EL CONSUMO EN ASTURIAS (4 sesiones)</strong></p>\n<p>Esta es la tarea central de la SA. Cada grupo investiga en profundidad su temática asignada, la relaciona con la realidad asturiana.</p>\n<p><strong>Sesión 1 — Grupos heterogéneos</strong></p>\n<p>Cada grupo define su estrategia de trabajo y asigna roles (coordinador/a, analista de datos, comunicador/a, responsable de calidad). Se elabora el plan de búsqueda de información. El/la docente explica brevemente los criterios de la infografía digital y la rúbrica de evaluación.</p>\n<p><strong>Sesiones 2 y 3 — Grupos de expertos/as </strong></p>\n<p>Los alumnos/as con la misma temática se reúnen en grupos de expertos/as para buscar, seleccionar y organizar información de calidad. Cada temática incluye un análisis específico:</p>\n<p>–      Grupo marketing: análisis de técnicas de persuasión en anuncios reales (precio psicológico, FOMO, influencers, cajas de suscripción). Experimento: seguimiento de anuncios recibidos durante 24 horas.</p>\n<p>–      Grupo obsolescencia programada: comparativa de vida útil declarada vs. real de tres dispositivos; cálculo del coste por año de uso; búsqueda de legislación europea de derecho a reparar.</p>\n<p>–      Grupo economía circular: mapa de iniciativas de economía circular en el Principado de Asturias (empresas, colectivos, políticas autonómicas del PANES). Propuestas aplicables al centro educativo.</p>\n<p>–      Grupo adicciones digitales: análisis del tiempo y gasto medio en dispositivos, videojuegos y apuestas online en jóvenes asturianos; identificación de recursos de ayuda disponibles en Asturias (UAVR, FAD, etc.).</p>\n<p><strong>Sesión 3 y 4 — Grupos heterogéneos y gran grupo</strong></p>\n<p>Elaboración grupal de la infografía visual (Canva, Genial.ly…) y exposición oral ante la clase. Cada presentación incluye: datos clave, gráficos elaborados por el grupo, análisis crítico y propuestas. El resto del alumnado realiza una coevaluación con rúbrica.</p>\n<p><strong>Actividad 1</strong></p>\n<p>Plan de trabajo del grupo y asignación de roles.</p>\n<p><strong>Actividad 2</strong></p>\n<p>Investigación en grupos de expertos/a.</p>\n<p><strong>Actividad 3</strong></p>\n<p>Informe digital individual.</p>\n<p><strong>Actividad 4</strong></p>\n<p>Presentación oral grupal y coevaluación.</p>\n</td>\n</tr>\n<tr>\n<td width=\"127\" style=\"width: 204.95px;\">\n<p>Cuaderno del alumnado</p>\n<p>Ordenadores</p>\n<p>Móviles / cámaras</p>\n<p>Herramientas de edición de vídeo (CapCut, Canva Video, iMovie)</p>\n<p>Redes sociales / web del centro</p>\n</td>\n<td width=\"475\" style=\"width: 726.25px;\">\n<p><strong>TAREA 3: ¿QUÉ PUEDO HACER YO? CAMPAÑA DE CONSUMO CONSCIENTE ( 3 sesiones)</strong></p>\n<p>Tras las exposiciones de todos los grupos, el alumnado dispone de una visión global del problema. En esta tarea final el trabajo se orienta hacia la acción, la creatividad y la difusión pública.</p>\n<p><strong>Sesión 1 — Técnica 1-2-4 (individual → parejas → grupo)</strong></p>\n<p>El/la docente propone situaciones problemáticas contextualizadas en la vida cotidiana del alumnado asturiano. Ejemplos:</p>\n<p>–      Comparativa del coste real (€/año de uso) de un smartphone nuevo vs. reparado en el Servicio de Reparación de la OSL.</p>\n<p>–      Simulación: ¿cuánto dinero ahorraría al mes un estudiante de 4.º ESO si cancelase dos suscripciones digitales innecesarias?</p>\n<p>–      Cálculo del ahorro de CO₂ equivalente si el 10% de los hogares asturianos adoptase la compra de segunda mano para ropa.</p>\n<p>–      Análisis de una apuesta deportiva online: probabilidad real de ganar, coste esperado por partida y proyección mensual.</p>\n<p>Se aplica la estructura 1-2-4: cada alumno/a resuelve primero en solitario, luego contrasta con una pareja y finalmente consensua la solución en el grupo completo.</p>\n<p><strong>Sesión 2 — Grupos heterogéneos</strong></p>\n<p>Cada grupo diseña y graba un vídeo corto de concienciación (máximo 90 segundos) con sus conclusiones y recomendaciones prácticas para un consumo más responsable, dirigido a la comunidad educativa. Los vídeos deben incluir: un dato económico clave, una propuesta concreta y aplicable, y un mensaje visual impactante. Se editan con herramientas digitales sencillas (CapCut, Canva Video).</p>\n<p><strong>Sesión 3 — Gra33n grupo + individual</strong></p>\n<p>Visionado colectivo de los vídeos y votación de los dos más impactantes para publicar en las redes sociales del instituto. El alumnado completa el KPSI de cierre comparándolo con el inicial, realiza la autoevaluación individual y la coevaluación del trabajo grupal. El/la docente cierra la SA con una reflexión sobre lo aprendido y su conexión con los ODS.</p>\n<p><strong>Actividad 1</strong></p>\n<p>Resolución cooperativa de situaciones problemáticas (1-2-4).</p>\n<p><strong>Actividad 2</strong></p>\n<p>Producción y edición del vídeo de concienciación.</p>\n<p><strong>Actividad 3</strong></p>\n<p>KPSI final, autoevaluación y coevaluación.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjiy-0tvz5x79d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjiy-0tvz5x79d</odePageId>
+      <odeBlockId>block-1777818339609-b5em5h1cl</odeBlockId>
+      <blockName>JUSTIFICACIÓN DE SU DESARROLLO E IMPACTO ESPERADO</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiy-0tvz5x79d</odePageId>
+          <odeBlockId>block-1777818339609-b5em5h1cl</odeBlockId>
+          <odeIdeviceId>idevice-1777818339599-7jlsl1233</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La LOMLOE y el Decreto 59/2022 del Principado de Asturias establecen un modelo de enseñanza competencial, orientado a los retos del siglo XXI y los Objetivos de Desarrollo Sostenible (ODS). Esta unidad responde a ese mandato situando al alumnado como protagonista de su aprendizaje y como agente de cambio social, económico y ambiental de su entorno más próximo. La finalidad de esta situación de aprendizaje es que el alumnado de 4.º ESO comprenda el impacto del consumo en su propia vida, en la sociedad y en el medioambiente, desarrollando una actitud crítica, responsable y transformadora frente a las estrategias del mercado. Se trabajará el análisis de los patrones de consumo actuales, los beneficios de la economía circular y el desarrollo sostenible en el Principado de Asturias, y los principales obstáculos para un consumo responsable: el marketing y la publicidad, la obsolescencia programada y las adicciones digitales (dispositivos móviles, redes sociales, videojuegos y apuestas</p>
+<p> La elección de la situación de aprendizaje responde a tres motivaciones fundamentales:</p>
+<p><span style="background-color: #f1c40f;"><strong>•      Relevancia curricular:</strong></span> los saberes básicos de 4.º ESO en esta materia incluyen explícitamente la economía circular, los nuevos modelos de negocio, la transformación digital y los ODS, elementos que constituyen el núcleo de esta unidad.</p>
+<p><span style="background-color: #f1c40f;"><strong>•      Pertinencia territorial: </strong></span>el alumnado percibe su entorno como un espacio lleno de potencial, pero con escasez de oportunidades laborales. Diseñar soluciones reales activa la motivación intrínseca y el sentido de agencia.</p>
+<p><span style="background-color: #f1c40f;"><strong>•      Demanda social y económica:</strong></span> la transición ecológica y la digitalización son los dos grandes ejes de transformación de la economía española y europea (Plan de Recuperación, Transformación y Resiliencia; Pacto Verde Europeo). Preparar al alumnado para este contexto es una responsabilidad ineludible.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777818339599-7jlsl1233","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La LOMLOE y el Decreto 59/2022 del Principado de Asturias establecen un modelo de enseñanza competencial, orientado a los retos del siglo XXI y los Objetivos de Desarrollo Sostenible (ODS). Esta unidad responde a ese mandato situando al alumnado como protagonista de su aprendizaje y como agente de cambio social, económico y ambiental de su entorno más próximo. La finalidad de esta situación de aprendizaje es que el alumnado de 4.º ESO comprenda el impacto del consumo en su propia vida, en la sociedad y en el medioambiente, desarrollando una actitud crítica, responsable y transformadora frente a las estrategias del mercado. Se trabajará el análisis de los patrones de consumo actuales, los beneficios de la economía circular y el desarrollo sostenible en el Principado de Asturias, y los principales obstáculos para un consumo responsable: el marketing y la publicidad, la obsolescencia programada y las adicciones digitales (dispositivos móviles, redes sociales, videojuegos y apuestas</p>\n<p> La elección de la situación de aprendizaje responde a tres motivaciones fundamentales:</p>\n<p><span style=\"background-color: #f1c40f;\"><strong>•      Relevancia curricular:</strong></span> los saberes básicos de 4.º ESO en esta materia incluyen explícitamente la economía circular, los nuevos modelos de negocio, la transformación digital y los ODS, elementos que constituyen el núcleo de esta unidad.</p>\n<p><span style=\"background-color: #f1c40f;\"><strong>•      Pertinencia territorial: </strong></span>el alumnado percibe su entorno como un espacio lleno de potencial, pero con escasez de oportunidades laborales. Diseñar soluciones reales activa la motivación intrínseca y el sentido de agencia.</p>\n<p><span style=\"background-color: #f1c40f;\"><strong>•      Demanda social y económica:</strong></span> la transición ecológica y la digitalización son los dos grandes ejes de transformación de la economía española y europea (Plan de Recuperación, Transformación y Resiliencia; Pacto Verde Europeo). Preparar al alumnado para este contexto es una responsabilidad ineludible.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjiy-0tvz5x79d</odePageId>
+      <odeBlockId>block-1777818428841-wpon2ir8s</odeBlockId>
+      <blockName>RELACIÓN DE LA SDA CON LOS ODS Y LOS RETOS DEL SIGLO XXI</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiy-0tvz5x79d</odePageId>
+          <odeBlockId>block-1777818428841-wpon2ir8s</odeBlockId>
+          <odeIdeviceId>idevice-1777818428841-b1rv1nbuc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está vinculada a los siguientes <strong>Objetivos de Desarrollo Sostenible de la Agenda 2030 y retos del siglo XXI:</strong></p>
+<p><strong>ODS n.º 12. </strong>Producción y consumo responsables: garantizar modalidades de consumo y producción sostenibles.</p>
+<p><strong>ODS n.º 13. </strong>Acción por el clima: adoptar medidas urgentes para combatir el cambio climático y sus efectos.</p>
+<p><strong>ODS n.º 8. </strong>Trabajo decente y crecimiento económico: promover el crecimiento económico sostenido, inclusivo y sostenible.</p>
+<p><strong>Reto siglo XXI n.º 4: </strong>Desarrollar un espíritu crítico, empático y proactivo para detectar situaciones de inequidad a partir de la comprensión de sus causas complejas.</p>
+<p><strong>Reto siglo XXI n.º 7: </strong>Gestionar y utilizar de forma responsable y crítica los recursos naturales y las tecnologías digitales.</p>
+<p><strong>Reto siglo XXI n.º 9: </strong>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como global, desarrollando empatía y generosidad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777818428841-b1rv1nbuc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje está vinculada a los siguientes <strong>Objetivos de Desarrollo Sostenible de la Agenda 2030 y retos del siglo XXI:</strong></p>\n<p><strong>ODS n.º 12. </strong>Producción y consumo responsables: garantizar modalidades de consumo y producción sostenibles.</p>\n<p><strong>ODS n.º 13. </strong>Acción por el clima: adoptar medidas urgentes para combatir el cambio climático y sus efectos.</p>\n<p><strong>ODS n.º 8. </strong>Trabajo decente y crecimiento económico: promover el crecimiento económico sostenido, inclusivo y sostenible.</p>\n<p><strong>Reto siglo XXI n.º 4: </strong>Desarrollar un espíritu crítico, empático y proactivo para detectar situaciones de inequidad a partir de la comprensión de sus causas complejas.</p>\n<p><strong>Reto siglo XXI n.º 7: </strong>Gestionar y utilizar de forma responsable y crítica los recursos naturales y las tecnologías digitales.</p>\n<p><strong>Reto siglo XXI n.º 9: </strong>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como global, desarrollando empatía y generosidad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjiz-nravm8rg6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjiz-nravm8rg6</odePageId>
+      <odeBlockId>block-1777818538748-plgkmvadc</odeBlockId>
+      <blockName>COMPETENCIAS ESPECÍFICAS. CRITERIOS EVALUACIÓN.COMPETENCIAS CLAVES</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiz-nravm8rg6</odePageId>
+          <odeBlockId>block-1777818538748-plgkmvadc</odeBlockId>
+          <odeIdeviceId>idevice-1777818538746-nikl5tkr3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table width="701" height="1155" style="width: 799px;">
+<tbody>
+<tr>
+<td width="200" style="width: 313.3px;">
+<p><span style="color: #2dc26b;"><strong>Competencias específicas</strong></span></p>
+</td>
+<td width="235" style="width: 257.2px;">
+<p><span style="color: #2dc26b;"><strong>Criterios de evaluación</strong></span></p>
+</td>
+<td width="167" style="width: 227.7px;">
+<p><span style="color: #2dc26b;"><strong>Descriptores del perfil de salida</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="200" style="width: 313.3px;">
+<p><strong>Competencia específica 2. </strong>Identificar, analizar y reflexionar críticamente sobre el comportamiento del consumidor, los mecanismos del mercado y sus efectos en la economía personal, en la sociedad y en el medioambiente, desarrollando hábitos de consumo responsable y sostenible.</p>
+</td>
+<td width="235" style="width: 257.2px;">
+<p><strong>2.1 </strong>Identificar y analizar los factores que influyen en las decisiones de consumo, valorando el papel del marketing, la publicidad y las técnicas de venta en la configuración de la sociedad de consumo actual.</p>
+<p> </p>
+<p><strong>2.2 </strong>Reconocer los beneficios del consumo responsable y los principios de la economía circular, valorando iniciativas y buenas prácticas de desarrollo sostenible en el Principado de Asturias.</p>
+<p> </p>
+<p><strong>2.3 </strong>Identificar y analizar los principales obstáculos para el consumo responsable —obsolescencia programada, publicidad engañosa y adicciones a dispositivos digitales, redes sociales, videojuegos y apuestas— valorando su impacto económico, social y personal.</p>
+</td>
+<td width="167" style="width: 227.7px;">
+<p>STEM2, STEM4</p>
+<p>CD1, CD2, CD3</p>
+<p>CCL1, CCL3</p>
+<p>CPSAA3, CPSAA5</p>
+<p>CC2, CC3</p>
+<p>CE1, CE3</p>
+<p>CCEC3</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777818538746-nikl5tkr3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table width=\"701\" height=\"1155\" style=\"width: 799px;\">\n<tbody>\n<tr>\n<td width=\"200\" style=\"width: 313.3px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Competencias específicas</strong></span></p>\n</td>\n<td width=\"235\" style=\"width: 257.2px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Criterios de evaluación</strong></span></p>\n</td>\n<td width=\"167\" style=\"width: 227.7px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Descriptores del perfil de salida</strong></span></p>\n</td>\n</tr>\n<tr>\n<td width=\"200\" style=\"width: 313.3px;\">\n<p><strong>Competencia específica 2. </strong>Identificar, analizar y reflexionar críticamente sobre el comportamiento del consumidor, los mecanismos del mercado y sus efectos en la economía personal, en la sociedad y en el medioambiente, desarrollando hábitos de consumo responsable y sostenible.</p>\n</td>\n<td width=\"235\" style=\"width: 257.2px;\">\n<p><strong>2.1 </strong>Identificar y analizar los factores que influyen en las decisiones de consumo, valorando el papel del marketing, la publicidad y las técnicas de venta en la configuración de la sociedad de consumo actual.</p>\n<p> </p>\n<p><strong>2.2 </strong>Reconocer los beneficios del consumo responsable y los principios de la economía circular, valorando iniciativas y buenas prácticas de desarrollo sostenible en el Principado de Asturias.</p>\n<p> </p>\n<p><strong>2.3 </strong>Identificar y analizar los principales obstáculos para el consumo responsable —obsolescencia programada, publicidad engañosa y adicciones a dispositivos digitales, redes sociales, videojuegos y apuestas— valorando su impacto económico, social y personal.</p>\n</td>\n<td width=\"167\" style=\"width: 227.7px;\">\n<p>STEM2, STEM4</p>\n<p>CD1, CD2, CD3</p>\n<p>CCL1, CCL3</p>\n<p>CPSAA3, CPSAA5</p>\n<p>CC2, CC3</p>\n<p>CE1, CE3</p>\n<p>CCEC3</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjiz-nravm8rg6</odePageId>
+      <odeBlockId>block-1777818743928-mtivx7j2h</odeBlockId>
+      <blockName>SABERES BÁSICOS</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjiz-nravm8rg6</odePageId>
+          <odeBlockId>block-1777818743928-mtivx7j2h</odeBlockId>
+          <odeIdeviceId>idevice-1777818743928-hcivclclj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table width="602" style="width: 953px;">
+<tbody>
+<tr>
+<td width="602" style="width: 777px;">
+<p style="text-align: center;"><span style="color: #169179;"><strong>Bloque B. Consumo y desarrollo sostenible: hacia una economía circular.</strong></span></p>
+<p>–      Beneficios derivados del consumo responsable: ahorro económico, reducción de residuos, bienestar personal y social.</p>
+<p>–      Economía circular y desarrollo sostenible en el Principado de Asturias: iniciativas empresariales, políticas autonómicas y ejemplos locales.</p>
+<p>–      Obstáculos para realizar un consumo responsable: marketing, publicidad, técnicas de persuasión y obsolescencia programada.</p>
+<p>–      Adicciones al consumo digital: dispositivos móviles, redes sociales, videojuegos y apuestas. Impacto económico y en el bienestar personal.</p>
+<p>–      Herramientas para un consumo crítico: etiquetado, sellos de calidad, comparadores de precios y plataformas de consumo colaborativo.</p>
+<p>–      Cálculo del coste real de productos: precio por uso, coste ambiental y coste de oportunidad.</p>
+<p>–      Análisis e interpretación de datos estadísticos y gráficos sobre consumo en contextos reales.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777818743928-hcivclclj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table width=\"602\" style=\"width: 953px;\">\n<tbody>\n<tr>\n<td width=\"602\" style=\"width: 777px;\">\n<p style=\"text-align: center;\"><span style=\"color: #169179;\"><strong>Bloque B. Consumo y desarrollo sostenible: hacia una economía circular.</strong></span></p>\n<p>–      Beneficios derivados del consumo responsable: ahorro económico, reducción de residuos, bienestar personal y social.</p>\n<p>–      Economía circular y desarrollo sostenible en el Principado de Asturias: iniciativas empresariales, políticas autonómicas y ejemplos locales.</p>\n<p>–      Obstáculos para realizar un consumo responsable: marketing, publicidad, técnicas de persuasión y obsolescencia programada.</p>\n<p>–      Adicciones al consumo digital: dispositivos móviles, redes sociales, videojuegos y apuestas. Impacto económico y en el bienestar personal.</p>\n<p>–      Herramientas para un consumo crítico: etiquetado, sellos de calidad, comparadores de precios y plataformas de consumo colaborativo.</p>\n<p>–      Cálculo del coste real de productos: precio por uso, coste ambiental y coste de oportunidad.</p>\n<p>–      Análisis e interpretación de datos estadísticos y gráficos sobre consumo en contextos reales.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj0-qbe2y3vlm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj0-qbe2y3vlm</odePageId>
+      <odeBlockId>block-1777818950474-4k3zikdoy</odeBlockId>
+      <blockName>METODOLOGÍA</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj0-qbe2y3vlm</odePageId>
+          <odeBlockId>block-1777818950474-4k3zikdoy</odeBlockId>
+          <odeIdeviceId>idevice-1777818950472-h5g111b9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table width="602" style="width: 825px;">
+<tbody>
+<tr>
+<td width="187" style="width: 242.5px; text-align: center;">
+<p><span style="color: #2dc26b;"><strong>Enfoque metodológico</strong></span></p>
+</td>
+<td width="415" style="width: 470.5px; text-align: center;">
+<p><span style="color: #2dc26b;"><strong>Descripción y aplicación en esta SA</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="187" style="width: 242.5px;">
+<p><strong>☑ Aprendizaje basado en problemas (ABP)</strong></p>
+</td>
+<td width="415" style="width: 470.5px;">
+<p>El alumnado parte de situaciones problemáticas reales (¿por qué mi móvil dura menos de dos años?, ¿cuánto gasto mensual suponen mis suscripciones digitales?) para construir conocimiento económico de forma inductiva y significativa.</p>
+</td>
+</tr>
+<tr>
+<td width="187" style="width: 242.5px;">
+<p><strong>☑ Aprendizaje basado en retos (ABR)</strong></p>
+</td>
+<td width="415" style="width: 470.5px;">
+<p>El reto global de la SA es diseñar y publicar una campaña de consumo consciente para la comunidad educativa del centro. El reto dota de propósito real a cada tarea y conecta el aprendizaje con el impacto social.</p>
+</td>
+</tr>
+<tr>
+<td width="187" style="width: 242.5px;">
+<p><strong>☑ Aprendizaje por descubrimiento</strong></p>
+</td>
+<td width="415" style="width: 470.5px;">
+<p>En la Tarea 1 el alumnado analiza sus propios hábitos de consumo y descubre por sí mismo los mecanismos del mercado que los condicionan, antes de recibir la explicación formal del docente. El error se convierte en oportunidad de aprendizaje.</p>
+</td>
+</tr>
+<tr>
+<td width="187" style="width: 242.5px;">
+<p><strong>☑ Explicación gran grupo</strong></p>
+</td>
+<td width="415" style="width: 470.5px;">
+<p>El/la docente introduce cada bloque de contenido con una exposición breve (máximo 15 minutos) que enmarca la tarea y proporciona el andamiaje conceptual necesario. Se alternan con momentos de trabajo autónomo y cooperativo.</p>
+</td>
+</tr>
+<tr>
+<td width="187" style="width: 242.5px;">
+<p><strong>☑ Aprendizaje basado en proyectos (parcial)</strong></p>
+</td>
+<td width="415" style="width: 470.5px;">
+<p>La campaña de concienciación final (vídeo + publicación en redes sociales del instituto) tiene carácter de mini-proyecto con producto tangible, difusión pública real y evaluación por parte de la comunidad educativa.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777818950472-h5g111b9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table width=\"602\" style=\"width: 825px;\">\n<tbody>\n<tr>\n<td width=\"187\" style=\"width: 242.5px; text-align: center;\">\n<p><span style=\"color: #2dc26b;\"><strong>Enfoque metodológico</strong></span></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px; text-align: center;\">\n<p><span style=\"color: #2dc26b;\"><strong>Descripción y aplicación en esta SA</strong></span></p>\n</td>\n</tr>\n<tr>\n<td width=\"187\" style=\"width: 242.5px;\">\n<p><strong>☑ Aprendizaje basado en problemas (ABP)</strong></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px;\">\n<p>El alumnado parte de situaciones problemáticas reales (¿por qué mi móvil dura menos de dos años?, ¿cuánto gasto mensual suponen mis suscripciones digitales?) para construir conocimiento económico de forma inductiva y significativa.</p>\n</td>\n</tr>\n<tr>\n<td width=\"187\" style=\"width: 242.5px;\">\n<p><strong>☑ Aprendizaje basado en retos (ABR)</strong></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px;\">\n<p>El reto global de la SA es diseñar y publicar una campaña de consumo consciente para la comunidad educativa del centro. El reto dota de propósito real a cada tarea y conecta el aprendizaje con el impacto social.</p>\n</td>\n</tr>\n<tr>\n<td width=\"187\" style=\"width: 242.5px;\">\n<p><strong>☑ Aprendizaje por descubrimiento</strong></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px;\">\n<p>En la Tarea 1 el alumnado analiza sus propios hábitos de consumo y descubre por sí mismo los mecanismos del mercado que los condicionan, antes de recibir la explicación formal del docente. El error se convierte en oportunidad de aprendizaje.</p>\n</td>\n</tr>\n<tr>\n<td width=\"187\" style=\"width: 242.5px;\">\n<p><strong>☑ Explicación gran grupo</strong></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px;\">\n<p>El/la docente introduce cada bloque de contenido con una exposición breve (máximo 15 minutos) que enmarca la tarea y proporciona el andamiaje conceptual necesario. Se alternan con momentos de trabajo autónomo y cooperativo.</p>\n</td>\n</tr>\n<tr>\n<td width=\"187\" style=\"width: 242.5px;\">\n<p><strong>☑ Aprendizaje basado en proyectos (parcial)</strong></p>\n</td>\n<td width=\"415\" style=\"width: 470.5px;\">\n<p>La campaña de concienciación final (vídeo + publicación en redes sociales del instituto) tiene carácter de mini-proyecto con producto tangible, difusión pública real y evaluación por parte de la comunidad educativa.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj1-i90o7bz32</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>VINCULACIÓN CON PROYECTOS Y PROGRAMAS DE CENTRO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON PROYECTOS Y PROGRAMAS DE CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON PROYECTOS Y PROGRAMAS DE CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj1-i90o7bz32</odePageId>
+      <odeBlockId>block-1777819016618-ejie3vpkt</odeBlockId>
+      <blockName>VINCULACIÓN CON PROYECTOS</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj1-i90o7bz32</odePageId>
+          <odeBlockId>block-1777819016618-ejie3vpkt</odeBlockId>
+          <odeIdeviceId>idevice-1777819016616-poqkrx3js</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table width="624">
+<thead>
+<tr>
+<td style="text-align: center; width: 278.275px;">
+<p><span style="color: #2dc26b;"><strong>Plan / Proyecto</strong></span></p>
+</td>
+<td style="text-align: center; width: 581.725px;">
+<p><span style="color: #2dc26b;"><strong>Vinculación con esta SA</strong></span></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 278.275px;">
+<p><strong>Red de Escuelas por el Reciclaje</strong></p>
+</td>
+<td style="width: 581.725px;">
+<p>Las 7R y el análisis del ciclo de vida del producto conectan directamente con las actividades de reciclaje y compostaje del centro.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 278.275px;">
+<p><strong>Ni Ogros Ni Princesas</strong></p>
+</td>
+<td style="width: 581.725px;">
+<p>El análisis del emprendimiento femenino en EC y la perspectiva de género en el diseño del modelo de negocio.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 278.275px;">
+<p><strong>Plan Lector (PLEI)</strong></p>
+</td>
+<td style="width: 581.725px;">
+<p>Lectura de artículos y noticias sobre EC, digitalización y emprendimiento local. Análisis crítico de fuentes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777819016616-poqkrx3js","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table width=\"624\">\n<thead>\n<tr>\n<td style=\"text-align: center; width: 278.275px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Plan / Proyecto</strong></span></p>\n</td>\n<td style=\"text-align: center; width: 581.725px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Vinculación con esta SA</strong></span></p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 278.275px;\">\n<p><strong>Red de Escuelas por el Reciclaje</strong></p>\n</td>\n<td style=\"width: 581.725px;\">\n<p>Las 7R y el análisis del ciclo de vida del producto conectan directamente con las actividades de reciclaje y compostaje del centro.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 278.275px;\">\n<p><strong>Ni Ogros Ni Princesas</strong></p>\n</td>\n<td style=\"width: 581.725px;\">\n<p>El análisis del emprendimiento femenino en EC y la perspectiva de género en el diseño del modelo de negocio.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 278.275px;\">\n<p><strong>Plan Lector (PLEI)</strong></p>\n</td>\n<td style=\"width: 581.725px;\">\n<p>Lectura de artículos y noticias sobre EC, digitalización y emprendimiento local. Análisis crítico de fuentes.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj1-t9cfhtceg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj1-t9cfhtceg</odePageId>
+      <odeBlockId>block-1777819072937-tckrh7ch3</odeBlockId>
+      <blockName>ACTIVIDAD COMPLEMENTARIA</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj1-t9cfhtceg</odePageId>
+          <odeBlockId>block-1777819072937-tckrh7ch3</odeBlockId>
+          <odeIdeviceId>idevice-1777819072934-a94vqd85n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;">Charla de un/a profesional de la orientación laboral o del consumo (OMIC de Asturias, OCU) sobre derechos del consumidor y publicidad engañosa.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777819072934-a94vqd85n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Charla de un/a profesional de la orientación laboral o del consumo (OMIC de Asturias, OCU) sobre derechos del consumidor y publicidad engañosa.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjj1-t9cfhtceg</odePageId>
+      <odeBlockId>block-1777819091445-mpl8anv2s</odeBlockId>
+      <blockName>ACTIVIDAD EXTRAESCOLAR</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj1-t9cfhtceg</odePageId>
+          <odeBlockId>block-1777819091445-mpl8anv2s</odeBlockId>
+          <odeIdeviceId>idevice-1777819091445-mw0wchn4d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;">Posible visita a una empresa asturiana con modelo de economía circular o a un punto limpio/taller de reparación de la región (Reciclauto, Recasens, iniciativas de la Fundación Asturiana de la Energía).</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777819091445-mw0wchn4d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Posible visita a una empresa asturiana con modelo de economía circular o a un punto limpio/taller de reparación de la región (Reciclauto, Recasens, iniciativas de la Fundación Asturiana de la Energía).</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj2-40eh399ks</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj2-40eh399ks</odePageId>
+      <odeBlockId>block-1777836487694-9haxcmz8i</odeBlockId>
+      <blockName>CÓMO Y QUÉ EVALUAMOS</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj2-40eh399ks</odePageId>
+          <odeBlockId>block-1777836487694-9haxcmz8i</odeBlockId>
+          <odeIdeviceId>idevice-1777836487691-shgx142kv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 96.4219%; height: 661.6px;">
+<tbody>
+<tr style="height: 53.6px;">
+<td colspan="3" style="width: 99.9774%; height: 53.6px;">
+<p style="text-align: center;"><span style="color: #2dc26b;"><strong>EVALUACIÓN</strong></span></p>
+</td>
+</tr>
+<tr style="height: 53.6px;">
+<td width="236" style="text-align: center; width: 34.7386%; height: 53.6px;">
+<p><span style="color: #2dc26b;"><strong>Procedimientos</strong></span></p>
+</td>
+<td width="245" style="text-align: center; width: 41.2394%; height: 53.6px;">
+<p><span style="color: #2dc26b;"><strong>Actividad / Producto</strong></span></p>
+</td>
+<td style="text-align: center; width: 23.9994%; height: 53.6px;">
+<p><span style="color: #2dc26b;"><strong>Instrumento</strong></span></p>
+</td>
+</tr>
+<tr style="height: 127.2px;">
+<td width="236" style="width: 34.7386%; height: 127.2px;">
+<p>Formulario KPSI (inicial y final)</p>
+</td>
+<td width="245" style="width: 41.2394%; height: 127.2px;">
+<p>Cuestionario KPSI inicial y final</p>
+<p> </p>
+</td>
+<td style="width: 23.9994%; height: 127.2px;">
+<p>Metacognición  </p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 78.4px;">
+<td width="236" style="width: 34.7386%; height: 78.4px;">
+<p>Observación directa</p>
+</td>
+<td width="245" style="width: 41.2394%; height: 78.4px;">
+<p>Cuaderno digital del alumnado  </p>
+</td>
+<td style="width: 23.9994%; height: 78.4px;">
+<p>Lista de Cotejo</p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 98.4px;">
+<td width="236" style="width: 34.7386%; height: 98.4px;">
+<p>Revisión de productos escritos y digitales</p>
+</td>
+<td width="245" style="width: 41.2394%; height: 98.4px;">
+<p>Infografía</p>
+</td>
+<td style="width: 23.9994%; height: 98.4px;">
+<p>Rúbrica</p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 98.4px;">
+<td width="236" style="width: 34.7386%; height: 98.4px;">
+<p>Visionado de Campaña</p>
+</td>
+<td width="245" style="width: 41.2394%; height: 98.4px;">
+<p>Canva, Genially con Vídeo /Póster</p>
+</td>
+<td style="width: 23.9994%; height: 98.4px;">
+<p>Rúbrica</p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 98.4px;">
+<td width="236" style="width: 34.7386%; height: 98.4px;">
+<p>Exposiciones orales</p>
+</td>
+<td width="245" style="width: 41.2394%; height: 98.4px;">
+<p>Presentación del proyecto</p>
+</td>
+<td style="width: 23.9994%; height: 98.4px;">
+<p>Rúbrica</p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 53.6px;">
+<td width="236" style="width: 34.7386%; height: 53.6px;">
+<p> </p>
+</td>
+<td width="245" style="width: 41.2394%; height: 53.6px;">
+<p> </p>
+</td>
+<td style="width: 23.9994%; height: 53.6px;">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836487691-shgx142kv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 96.4219%; height: 661.6px;\">\n<tbody>\n<tr style=\"height: 53.6px;\">\n<td colspan=\"3\" style=\"width: 99.9774%; height: 53.6px;\">\n<p style=\"text-align: center;\"><span style=\"color: #2dc26b;\"><strong>EVALUACIÓN</strong></span></p>\n</td>\n</tr>\n<tr style=\"height: 53.6px;\">\n<td width=\"236\" style=\"text-align: center; width: 34.7386%; height: 53.6px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Procedimientos</strong></span></p>\n</td>\n<td width=\"245\" style=\"text-align: center; width: 41.2394%; height: 53.6px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Actividad / Producto</strong></span></p>\n</td>\n<td style=\"text-align: center; width: 23.9994%; height: 53.6px;\">\n<p><span style=\"color: #2dc26b;\"><strong>Instrumento</strong></span></p>\n</td>\n</tr>\n<tr style=\"height: 127.2px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 127.2px;\">\n<p>Formulario KPSI (inicial y final)</p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 127.2px;\">\n<p>Cuestionario KPSI inicial y final</p>\n<p> </p>\n</td>\n<td style=\"width: 23.9994%; height: 127.2px;\">\n<p>Metacognición  </p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 78.4px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 78.4px;\">\n<p>Observación directa</p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 78.4px;\">\n<p>Cuaderno digital del alumnado  </p>\n</td>\n<td style=\"width: 23.9994%; height: 78.4px;\">\n<p>Lista de Cotejo</p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 98.4px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 98.4px;\">\n<p>Revisión de productos escritos y digitales</p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 98.4px;\">\n<p>Infografía</p>\n</td>\n<td style=\"width: 23.9994%; height: 98.4px;\">\n<p>Rúbrica</p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 98.4px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 98.4px;\">\n<p>Visionado de Campaña</p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 98.4px;\">\n<p>Canva, Genially con Vídeo /Póster</p>\n</td>\n<td style=\"width: 23.9994%; height: 98.4px;\">\n<p>Rúbrica</p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 98.4px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 98.4px;\">\n<p>Exposiciones orales</p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 98.4px;\">\n<p>Presentación del proyecto</p>\n</td>\n<td style=\"width: 23.9994%; height: 98.4px;\">\n<p>Rúbrica</p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 53.6px;\">\n<td width=\"236\" style=\"width: 34.7386%; height: 53.6px;\">\n<p> </p>\n</td>\n<td width=\"245\" style=\"width: 41.2394%; height: 53.6px;\">\n<p> </p>\n</td>\n<td style=\"width: 23.9994%; height: 53.6px;\">\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DISEÑO UNIVERSAL PARA EL APRENDIZAJE</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISEÑO UNIVERSAL PARA EL APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DISEÑO UNIVERSAL PARA EL APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+      <odeBlockId>block-1777837305500-s9isuh4jl</odeBlockId>
+      <blockName>Contenido DUA EXPRESIÓN</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+          <odeBlockId>block-1777837305500-s9isuh4jl</odeBlockId>
+          <odeIdeviceId>idevice-1777837305496-ucfgbmywy</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>– &nbsp; &nbsp; &nbsp;Los productos finales admiten diferentes formatos: la infografía &nbsp;digital puede presentarse como documento de texto, presentación visual, podcast o vídeo según las capacidades comunicativas de cada alumno/a.</p>
+<p>– &nbsp; &nbsp; &nbsp;Se proporcionan plantillas y guiones estructurados para el alumnado que necesite mayor andamiaje en la organización de la información.</p>
+<p>Se reconsideran los ítems de las rúbricas y la ponderación de los criterios para alumnado con NEE, TDAH o dificultades específicas de aprendizaje.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+      <odeBlockId>block-1777837614894-voqwnv3rl</odeBlockId>
+      <blockName>Contenido DUA COMPRENSIÓN</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+          <odeBlockId>block-1777837614894-voqwnv3rl</odeBlockId>
+          <odeIdeviceId>idevice-1777837614891-puq901hki</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main">
+<p>– &nbsp; &nbsp; &nbsp;Los contenidos se presentan mediante diferentes formatos: texto, vídeo, infografía, noticias de prensa y datos estadísticos.</p>
+<p>– &nbsp; &nbsp; &nbsp;Se utiliza vocabulario accesible y se proporciona un glosario de términos económicos clave al inicio de la SA.</p>
+<p>– &nbsp; &nbsp; &nbsp;Las situaciones problemáticas se contextualizan siempre en la realidad cercana del alumnado asturiano para aumentar la relevancia y la motivación.</p>
+<p>– &nbsp; &nbsp; &nbsp;Se ofrecen apoyos visuales (esquemas, mapas conceptuales) para el alumnado con dificultades de comprensión lectora o con NEE.</p>
+<p>Alumnado de altas capacidades: se proponen fuentes de mayor complejidad y preguntas de ampliación que exigen pensamiento de orden superior.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+      <odeBlockId>block-1777837746803-ira1ixg0s</odeBlockId>
+      <blockName>Contenido DUA IMPLICACIÓN</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj2-ir4dngftz</odePageId>
+          <odeBlockId>block-1777837746803-ira1ixg0s</odeBlockId>
+          <odeIdeviceId>idevice-1777837746804-2dhr6maum</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>– &nbsp; &nbsp; &nbsp;Los roles en el trabajo cooperativo se asignan atendiendo a las fortalezas de cada alumno/a, asegurando que todas las personas contribuyen de forma significativa.</p>
+<p>– &nbsp; &nbsp; &nbsp;La técnica 1-2-4 permite que el alumnado con mayor inseguridad social comparta primero en pareja antes de exponerse al grupo completo.</p>
+<p>– &nbsp; &nbsp; &nbsp;Se aplican estrategias de flexibilidad cognitiva: el error se reencuadra explícitamente como oportunidad de aprendizaje; se celebran los progresos parciales.</p>
+<p>– &nbsp; &nbsp; &nbsp;Alumnado con incorporación tardía o lengua extranjera: se proporciona material simplificado en la fase de búsqueda de información y se facilita la integración en el grupo a través del rol de comunicador/a.</p>
+<p>Para alumnado con dificultades de autorregulación (TDAH): se establecen metas a corto plazo, se usan registros de progreso visuales y se acuerdan pausas activas durante las sesiones largas.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor4cjj3-ehmrolk4j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ATRIBUCIÓN Y FICHERO DESCARGABLE</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y FICHERO DESCARGABLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCARGA ESTE EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ATRIBUCIÓN Y FICHERO DESCARGABLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor4cjj3-ehmrolk4j</odePageId>
+      <odeBlockId>block-1777840678425-t6o2my582</odeBlockId>
+      <blockName>DESCARGA EXE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor4cjj3-ehmrolk4j</odePageId>
+          <odeBlockId>block-1777840678425-t6o2my582</odeBlockId>
+          <odeIdeviceId>idevice-1777840678422-ogfqaxced</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/compramos-o-nos-compran.elpx" title="compramos-o-nos-compran.elpx">DESCARGA ESTE EXELEARNING</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777840678422-ogfqaxced","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/compramos-o-nos-compran.elpx\" title=\"compramos-o-nos-compran.elpx\">DESCARGA ESTE EXELEARNING</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
